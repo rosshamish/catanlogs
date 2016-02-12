@@ -1,0 +1,180 @@
+catanlog v0.10.0
+timestamp: 2016-02-12 15:34:26
+players: 4
+name: kralka, color: orange, seat: 1
+name: yuri, color: blue, seat: 2
+name: ross, color: red, seat: 3
+name: mike, color: white, seat: 4
+terrain: ore sheep wood wood ore sheep sheep wheat brick wheat wood sheep wood wheat wheat brick ore desert brick
+numbers: 5 2 8 10 9 8 5 3 4 6 3 6 10 12 11 9 11 None 4
+ports: sheep(2 NW) 3:1(3 W) ore(4 SW) wheat(6 SW) 3:1(7 SE) wood(8 E) brick(10 E) 3:1(11 NE) 3:1(12 NW)
+...CATAN!
+orange buys settlement, builds at (1 SE)
+orange buys road, builds at (1 SE)
+orange ends turn after 337s
+blue buys settlement, builds at (5 NE)
+blue buys road, builds at (5 NE)
+blue ends turn after 6s
+red buys settlement, builds at (6 NE)
+red buys road, builds at (6 E)
+red ends turn after 28s
+white buys settlement, builds at (9 NW)
+white buys road, builds at (9 NW)
+white ends turn after 45s
+white buys settlement, builds at (3 SE)
+white buys road, builds at (3 SE)
+white ends turn after 33s
+red buys settlement, builds at (10 N)
+red buys road, builds at (10 NW)
+red ends turn after 82s
+blue buys settlement, builds at (16 N)
+blue buys road, builds at (17 W)
+blue ends turn after 110s
+orange buys settlement, builds at (14 SE)
+orange buys road, builds at (14 E)
+orange ends turn after 35s
+orange rolls 2 ...DEUCES!
+orange ends turn after 16s
+blue rolls 5
+blue ends turn after 3s
+red rolls 9
+red buys road, builds at (6 SE)
+red ends turn after 21s
+white rolls 8
+white ends turn after 13s
+orange rolls 8
+orange ends turn after 8s
+blue rolls 11
+blue ends turn after 5s
+blue ends turn after 19s
+blue buys city, builds at (16 N)
+blue ends turn after 29s
+red rolls 9
+red ends turn after 9s
+white rolls 8
+white ends turn after 25s
+orange rolls 10
+orange ends turn after 13s
+blue rolls 4
+blue buys road, builds at (18 SW)
+blue buys road, builds at (13 SE)
+blue ends turn after 25s
+red rolls 9
+red trades [4 sheep] to port 4:1 for [1 wood]
+red ends turn after 41s
+white rolls 8
+white buys road, builds at (4 W)
+white buys road, builds at (4 SW)
+white buys settlement, builds at (4 S)
+white ends turn after 40s
+orange rolls 9
+orange buys road, builds at (13 SW)
+orange ends turn after 15s
+blue rolls 4
+blue buys dev card
+blue ends turn after 31s
+red rolls 8
+red buys settlement, builds at (6 S)
+red ends turn after 17s
+white rolls 7
+white moves robber to 16, steals from blue
+white buys city, builds at (9 NW)
+white ends turn after 46s
+white moves robber to 16, steals from red
+white buys city, builds at (9 NW)
+white ends turn after 60s
+orange rolls 9
+orange rolls 9
+orange ends turn after 45s
+blue rolls 9
+blue ends turn after 9s
+red rolls 10
+red ends turn after 35s
+white rolls 7
+white moves robber to 6, steals from blue
+white buys road, builds at (9 NE)
+white buys settlement, builds at (9 NE)
+white ends turn after 47s
+orange rolls 12
+orange buys settlement, builds at (2 SE)
+orange ends turn after 24s
+blue rolls 4
+blue ends turn after 8s
+red rolls 7
+red moves robber to 17, steals from white
+red ends turn after 19s
+white rolls 10
+white buys road, builds at (3 SW)
+white ends turn after 61s
+orange rolls 9
+orange ends turn after 1s
+orange buys road, builds at (2 E)
+orange buys road, builds at (1 SW)
+orange ends turn after 12s
+blue rolls 5
+blue buys settlement, builds at (13 SE)
+blue ends turn after 28s
+red rolls 8
+red trades [2 sheep] to player white for [1 wood]
+red buys road, builds at (7 SW)
+red ends turn after 29s
+white rolls 7
+white moves robber to 18, steals from blue
+white ends turn after 41s
+white buys settlement, builds at (3 SW)
+white ends turn after 54s
+orange rolls 8
+orange rolls 3
+orange ends turn after 25s
+blue rolls 8
+blue ends turn after 11s
+red rolls 10
+red ends turn after 22s
+white rolls 5
+white ends turn after 12s
+orange rolls 9
+orange ends turn after 18s
+blue rolls 8
+blue buys road, builds at (16 NE)
+blue ends turn after 56s
+red rolls 8
+red buys settlement, builds at (7 S)
+red buys road, builds at (11 SW)
+red ends turn after 16s
+white rolls 5
+white buys road, builds at (9 W)
+white buys road, builds at (8 NE)
+white ends turn after 27s
+orange rolls 3
+orange ends turn after 12s
+blue rolls 7
+blue moves robber to 10, steals from white
+blue buys road, builds at (8 W)
+blue ends turn after 40s
+red rolls 6
+red ends turn after 25s
+white rolls 11
+white ends turn after 7s
+orange rolls 6
+orange buys settlement, builds at (1 SW)
+orange ends turn after 24s
+blue rolls 11
+blue buys city, builds at (5 NE)
+blue buys dev card
+blue ends turn after 19s
+red rolls 10
+red ends turn after 9s
+white rolls 9
+white rolls 11
+white buys city, builds at (3 SE)
+white ends turn after 23s
+orange rolls 11
+orange buys city, builds at (1 SE)
+orange ends turn after 33s
+blue rolls 5
+blue buys city, builds at (13 SE)
+blue plays knight
+blue moves robber to 7, steals from red
+blue buys road, builds at (7 NE)
+blue buys settlement, builds at (7 NE)
+blue wins
