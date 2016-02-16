@@ -1,0 +1,273 @@
+catanlog v0.10.0
+timestamp: 2016-02-15 22:45:00
+players: 4
+name: josh, color: blue, seat: 1
+name: mike, color: orange, seat: 2
+name: hoskins, color: red, seat: 3
+name: timo, color: green, seat: 4
+terrain: ore wheat wood sheep wood wheat wood wheat wheat brick wood ore sheep ore brick sheep brick sheep desert
+numbers: 9 11 6 11 10 8 2 10 4 4 6 12 8 3 9 5 3 5 None
+ports: ore(2 NW) wood(3 W) 3:1(5 W) sheep(6 SW) wheat(7 SE) brick(9 SE) 3:1(10 E) 3:1(11 NE) 3:1(12 NW)
+...CATAN!
+blue buys settlement, builds at (6 N)
+blue buys road, builds at (6 NW)
+blue ends turn after 129s
+orange buys settlement, builds at (1 S)
+orange buys road, builds at (1 SW)
+orange ends turn after 5s
+red buys settlement, builds at (10 NW)
+red buys road, builds at (10 W)
+red ends turn after 79s
+green buys settlement, builds at (12 S)
+green buys road, builds at (12 SW)
+green ends turn after 56s
+green buys settlement, builds at (4 SE)
+green buys road, builds at (4 SE)
+green ends turn after 4s
+red buys settlement, builds at (3 SE)
+red buys road, builds at (3 SE)
+red ends turn after 150s
+orange buys settlement, builds at (9 NW)
+orange buys road, builds at (9 W)
+orange ends turn after 67s
+blue buys settlement, builds at (17 NW)
+blue buys road, builds at (17 W)
+blue ends turn after 188s
+blue rolls 10
+blue ends turn after 9s
+orange rolls 5
+orange ends turn after 16s
+red rolls 10
+red ends turn after 25s
+green rolls 7
+green moves robber to 6, steals from blue
+green buys road, builds at (1 E)
+green ends turn after 71s
+blue rolls 5
+blue ends turn after 7s
+orange rolls 2 ...DEUCES!
+orange ends turn after 13s
+red rolls 12
+red ends turn after 10s
+green rolls 7
+green moves robber to 3, steals from red
+green buys settlement, builds at (1 NE)
+green ends turn after 49s
+blue rolls 11
+blue ends turn after 9s
+orange rolls 6
+orange ends turn after 11s
+orange trades [1 brick] to player red for [1 wood]
+orange ends turn after 27s
+red rolls 5
+red buys road, builds at (3 SW)
+red ends turn after 13s
+green rolls 7
+green moves robber to 6, steals from blue
+green buys dev card
+green ends turn after 78s
+blue rolls 7
+blue moves robber to 13, steals from orange
+blue ends turn after 29s
+orange rolls 3
+orange ends turn after 9s
+red rolls 9
+red ends turn after 12s
+green plays knight
+green moves robber to 6, steals from blue
+green ends turn after 39s
+blue rolls 7
+blue moves robber to 13, steals from orange
+blue ends turn after 35s
+orange rolls 3
+orange ends turn after 61s
+red rolls 4
+red ends turn after 48s
+green rolls 7
+green moves robber to 9, steals from orange
+green buys road, builds at (1 NE)
+green ends turn after 75s
+blue rolls 8
+blue ends turn after 41s
+orange rolls 8
+orange ends turn after 28s
+red rolls 9
+red ends turn after 43s
+green rolls 4
+green trades [2 brick] to player blue for [1 wheat]
+green buys dev card
+green ends turn after 38s
+blue rolls 9
+blue trades [4 brick] to port 4:1 for [1 wood]
+blue buys road, builds at (16 NE)
+blue buys settlement, builds at (8 NW)
+blue ends turn after 35s
+orange rolls 11
+orange buys road, builds at (1 W)
+orange buys settlement, builds at (1 NW)
+orange ends turn after 31s
+red rolls 4
+red rolls 5
+red ends turn after 41s
+green plays knight
+green moves robber to 6, steals from blue
+green rolls 12
+green ends turn after 99s
+green buys dev card
+green ends turn after 103s
+blue rolls 7
+blue moves robber to 1, steals from orange
+blue ends turn after 17s
+orange rolls 12
+orange ends turn after 20s
+red rolls 4
+red ends turn after 41s
+green plays knight
+green moves robber to 9, steals from orange
+green ends turn after 58s
+blue rolls 6
+blue ends turn after 78s
+orange rolls 3
+orange buys road, builds at (8 NE)
+orange ends turn after 30s
+red rolls 9
+red buys settlement, builds at (3 SW)
+red buys road, builds at (3 E)
+red ends turn after 43s
+green rolls 10
+green trades [3 brick] to port 3:1 for [1 wheat]
+green buys city, builds at (1 NE)
+green ends turn after 29s
+blue rolls 5
+blue buys road, builds at (5 E)
+blue buys settlement, builds at (5 SE)
+blue ends turn after 53s
+orange rolls 7
+orange moves robber to 6, steals from blue
+orange ends turn after 54s
+red rolls 9
+red ends turn after 19s
+green rolls 10
+green buys road, builds at (12 SE)
+green ends turn after 50s
+blue rolls 9
+blue ends turn after 51s
+orange rolls 7
+orange moves robber to 15, steals from green
+orange ends turn after 50s
+red rolls 10
+red ends turn after 9s
+green rolls 3
+green buys road, builds at (11 W)
+green ends turn after 36s
+blue rolls 8
+blue trades [1 wheat, 1 wood] to player orange for [3 ore]
+blue buys city, builds at (6 N)
+blue ends turn after 47s
+orange rolls 10
+orange buys settlement, builds at (8 NE)
+orange ends turn after 20s
+red rolls 6
+red trades [1 wood] to player blue for [1 wheat]
+red buys road, builds at (3 W)
+red ends turn after 112s
+green rolls 5
+green buys settlement, builds at (11 NW)
+green ends turn after 59s
+blue rolls 8
+blue buys road, builds at (6 NE)
+blue buys road, builds at (7 NW)
+blue buys road, builds at (8 W)
+blue buys dev card
+blue ends turn after 69s
+orange rolls 9
+orange ends turn after 22s
+red rolls 3
+red ends turn after 7s
+green rolls 10
+green ends turn after 75s
+blue rolls 8
+blue ends turn after 53s
+orange rolls 6
+orange buys city, builds at (1 S)
+orange ends turn after 35s
+red rolls 4
+red trades [2 wood] to port wood for [1 brick]
+red buys road, builds at (3 NW)
+red buys settlement, builds at (2 SW)
+red buys road, builds at (2 SW)
+red ends turn after 87s
+green rolls 7
+green moves robber to 16, steals from blue
+green buys dev card
+green ends turn after 68s
+blue rolls 8
+blue buys road, builds at (6 E)
+blue ends turn after 19s
+orange rolls 7
+orange moves robber to 7, steals from nobody
+orange ends turn after 66s
+red rolls 7
+red moves robber to 6, steals from blue
+red ends turn after 22s
+green rolls 7
+green moves robber to 16, steals from blue
+green buys road, builds at (5 W)
+green ends turn after 53s
+blue rolls 8
+blue ends turn after 32s
+orange rolls 6
+orange ends turn after 3s
+red rolls 6
+red rolls 7
+red moves robber to 6, steals from blue
+red buys road, builds at (2 SE)
+red buys road, builds at (13 SW)
+red ends turn after 83s
+green rolls 7
+green moves robber to 3, steals from red
+green ends turn after 23s
+blue rolls 11
+blue ends turn after 5s
+orange rolls 8
+orange rolls 7
+orange moves robber to 16, steals from blue
+orange ends turn after 98s
+red rolls 8
+red ends turn after 12s
+green rolls 3
+green buys dev card
+green ends turn after 18s
+blue rolls 5
+blue ends turn after 61s
+orange rolls 6
+orange ends turn after 72s
+red rolls 6
+red trades [4 wood] to port wood for [2 brick]
+red buys road, builds at (14 E)
+red buys road, builds at (15 NE)
+red buys settlement, builds at (13 S)
+red ends turn after 119s
+green rolls 10
+green plays knight
+green moves robber to 6, steals from blue
+green ends turn after 61s
+blue rolls 5
+blue buys settlement, builds at (6 SE)
+blue buys road, builds at (18 SW)
+blue buys road, builds at (13 SE)
+blue ends turn after 104s
+orange rolls 5
+orange ends turn after 109s
+orange buys city, builds at (9 NW)
+orange ends turn after 116s
+red rolls 9
+red buys road, builds at (15 E)
+red ends turn after 18s
+green rolls 8
+green ends turn after 89s
+blue rolls 5
+blue trades [4 sheep] to port sheep for [2 brick]
+blue buys road, builds at (6 SW)
+blue buys road, builds at (6 SE)
+blue wins
